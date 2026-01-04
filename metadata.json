@@ -1,0 +1,8 @@
+{
+  "name": "Mind & Heart Pathway by Bea Michelle",
+  "description": "A professional, calming, and supportive platform offering Ministry, Counseling, Life Coaching, ABA Therapy, and Mental Therapy with integrated AI-assisted support and scheduling.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
